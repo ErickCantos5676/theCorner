@@ -1,0 +1,80 @@
+Instrucciones
+1.- Indique qué normativa ISO se corresponde con las siguientes 
+definiciones:
+
+estándar para la seguridad de la información (también se considera 
+una guía de buenas practicas) en la que incluye los distintos objetivos
+ de control y controles recomendados para mantener un nivel de seguridad 
+de la información óptimo
+manual de buenas prácticas que incluye fundamentalmente el vocabulario 
+que se va a utilizar en las normas incluidas en toda la serie para una
+ mayor comprensión de las mismas.
+manual de buenas prácticas en el que se incluyen los requisitos necesarios
+ de los sistemas de gestión de seguridad de la información.
+2.- ¿Cuál de las siguientes secciones no forma parte de la norma ISO/IEC 27002
+
+Política de seguridad.
+Gestión de archivos.
+Seguridad física y del entorno.
+Política de privacidad.
+3.- Relación de las siguientes definiciones con los conceptos que se describen
+ a continuación.
+
+Evento o serie de eventos inesperados de seguridad de la información que 
+tienen una probabilidad significativa de comprometer las operaciones 
+comerciales y amenazar la seguridad de la información.
+Cualquier sistema, servicio o infraestructura de procesamiento de la información.
+Preservación de las confidencialidad, integración y disponibilidad de la 
+información. También puede involucrar otras propiedades como la autenticidad,
+ responsabilidad no repudiación y confiabilidad.
+Seguridad de la información.
+Incidente de la seguridad de la información
+medios de procesamiento de la información.
+4.-¿Qué diferencias fundamentales hay entre el análisis de riesgo, evaluación
+ de riesgo y tratamiento de riesgo? Descríbelas.
+
+ 
+
+5.-Completa la siguiente frase:
+
+El objetivo del apartado de la gestión de…………. De la norma ISO/27002 Es 
+conseguir y mantener una protección adecuada de los activos de la organización 
+. Para ello es necesario realizar un……. Todos los activos de la organización
+
+ 
+
+6.-Indique qué fase del ciclo de vida del servicio corresponde la definición
+ siguiente “Fase en la que se define el servicio que se va a prestar la 
+tipología de clientes al que se va a destinar y en que mercados se va a
+ prestar.”
+
+7.-¿Cuál de las siguientes casuísticas no se rige por la ley de Protección 
+de Datos de carácter personal LOPD?
+
+Cuando el responsable del tratamiento no le sea de aplicación la legislación
+ española según las normas del Derecho Internacional Público.
+Cuando el tratamiento de los datos se efectúa en territorio español, en 
+el marco de las actividades de un establecimiento del responsable del tratamiento.
+Cuando el responsable del tratamiento no esté establecido en territorio español
+ pero le sea de aplicación la legislación española, según las normas del
+ Derecho Internacional Público.
+Ninguna de las respuestas anteriores es correcta.
+8.-¿Según la LOPD y que es un fichero y que tipos de ficheros hay?
+
+9.-Indica qué nivel de seguridad se corresponde cada una de las siguientes medidas:
+
+Los soportes y documentos que contengan los datos personales deben estar 
+identificados e inventariados.
+Conservar los datos de acceso registrados durante por lo menos 2 años.
+Registrar los procedimientos realizados de recuperación de datos en el
+ registro de incidencias.
+Cada 6 meses el responsable del fichero debe verificar la correcta definición,
+ funcionamiento y aplicación de los procedimientos de copias de seguridad y
+ de recuperación de datos.
+10.- cuál de las siguientes funciones son responsabilidad de la Agencia 
+Española de Protección de Datos(LOPD)
+
+Controlar a los agentes implicados en el tratamiento de los datos.
+Autorizar las transferencias nacionales de datos.
+Velar por la publicidad de los datos.
+Ejercer la potestad

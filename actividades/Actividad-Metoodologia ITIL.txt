@@ -1,0 +1,42 @@
+1. Realiza un breve esquema de las distintas fases del ciclo de vida 
+de un servicio y describe levemente las características fundamentales 
+de dichas fases
+
+Estrategia
+	Generacion de la estrategia
+Diseño
+	Gestion del catalogo
+Transicion
+	Gestion de la configuracion
+Operacion
+	gestion de eventos
+
+
+
+2. En la actualidad existen una serie de certificaciones ITIL v3 para
+ indicar que los profesionales con esta certificación disponen de 
+conocimientos básicos de gestión de servicios en tecnologías de la 
+información. Busca más información sobre esta certificación y sobre 
+las condiciones que deben cumplir los profesionales para obtenerlas.
+
+ITIL v3 es la tercera versión de la guía ITIL para la gestión de 
+servicios de TI. Aunque su publicación tuvo lugar en junio de 2007,
+ se siguió revisando de forma extensa en los años posteriores. 
+Es por eso por lo que cuando se menciona a ITIL v3 en la actualidad,
+ se está haciendo referencia a la edición publicada en julio de 2011,
+ formada por una amplia introducción y los siguientes cinco libros 
+para las áreas centrales de la gestión de servicios de TI:
+
+Estrategia de servicios (Service Strategy)
+Diseño de servicios (Service Design)
+Transición de servicios (Service transition)
+Operación de servicios (Service Operation)
+Mejora continua de servicios (Continual Service Improvement)
+Si se compara con las versiones anteriores ITIL v1 e ITIL v2, formadas
+ por 42 y 9 documentos respectivamente, en la versión ITIL v3 el 
+contenido presenta una estructuración más clara. Además, todos los 
+capítulos siguen el mismo patrón para ofrecer una orientación lo más 
+sencilla posible. En los cinco libros, se describen un total de 26 
+procesos básicos que pueden servir a las empresas como mejores 
+prácticas, pero que también pueden adaptarse en cada ocasión según
+ las necesidades que vayan surgiendo.

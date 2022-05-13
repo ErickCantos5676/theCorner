@@ -1,0 +1,25 @@
+Contesta a las siguientes preguntas:
+##############################
+1.-En la empresa en la que trabajas, te acaban de encomendar 
+la evaluación de los distintos riesgos a los que se somete la
+ empresa y el diseño de una serie de medidas y buenas practicas
+ para disminuir riesgos.
+En estos momentos te encuentras analizando los riesgos que pueden
+ haber al dejar entrar libremente a una persona externa de la
+ organización. ¿Qué riesgo supondría este hecho? ¿Cómo lo evitarías ?
+
+limitando el acceso a informacion y a las intalaciones de procesamiento
+de informacion
+Los usuarios sólo deben tener acceso a la red y a los servicios para 
+los que se les ha autorizado específicamente para usar
+
+##############################
+2.- Indica si consideras adecuadas las medidas recomendadas para
+el control de acceso de los usuarios autorizados y propón medidas 
+adicionales
+
+los usuarios autorizados van a requerir contraseñas personales, tendra
+acceso a parte especifica de la informacion que va dirigida solo a el
+usuario autorizado, con un respaldo de la informacion en caso de que
+llegue a ser alterada o modificada sin permiso por medio del control
+de versiones.

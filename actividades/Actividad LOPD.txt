@@ -1,0 +1,15 @@
+1.- El procedimiento de disociación de datos consiste en aislar los 
+datos de un afectado con la identidad del mismo. Pon ejemplos de 
+posibles situaciones en las que pueda ser necesario este procedimiento
+ de disociación.
+
+2.-Para una mayor retención y comprensión de los conceptos, realizar 
+un breve esquema con los distintos principios fundamentales de la 
+protección de datos
+
+3.- Como responsable de tratamiento de datos de tu empresa, acabas 
+de darte cuenta que se han seguido utilizando datos ilícitamente de 
+un antiguo cliente cuando este ha solicitado reiteradamente y por 
+vía formal la eliminación de sus datos desde la base de datos de la 
+empresa. Qué tipo de infracción se estaría cometiendo? ¿qué cuantía 
+podría ser la sanción?
